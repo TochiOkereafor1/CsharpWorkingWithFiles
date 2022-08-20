@@ -1,0 +1,14 @@
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\bin\Debug\netcoreapp3.1\ReadFiles.exe
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\bin\Debug\netcoreapp3.1\ReadFiles.deps.json
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\bin\Debug\netcoreapp3.1\ReadFiles.runtimeconfig.json
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\bin\Debug\netcoreapp3.1\ReadFiles.runtimeconfig.dev.json
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\bin\Debug\netcoreapp3.1\ReadFiles.dll
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\bin\Debug\netcoreapp3.1\ReadFiles.pdb
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.csproj.AssemblyReference.cache
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.AssemblyInfoInputs.cache
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.AssemblyInfo.cs
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.dll
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.pdb
+C:\Users\toker\source\repos\ReadFiles\ReadFiles\obj\Debug\netcoreapp3.1\ReadFiles.genruntimeconfig.cache
